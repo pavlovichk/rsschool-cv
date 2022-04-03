@@ -2,9 +2,14 @@
 ## Contacts:
 * __Discord__: pavlovichk
 * __E-mail__: kristina.pavlovich17@gmail.com
-* __Tel__: +375336241402
+* __Telegram__: pavlovichk 
 ## About myself:
 I'm a doctor now but I want to learn Front-End Development in RSSchool!
+## Skills:
+* JS
+* HTML&CSS
+* Git
+* Figma
 ## Code example:
 ```
 function fizzbuzz(n)
@@ -28,11 +33,11 @@ function fizzbuzz(n)
 }
 ```
 ## Work experience:
-Nothing yet…
+Only like a doctor :)
 
 ## Education and courses:
 * Git video courses on YouTube channel Artsiom Rusau QA Life
 * JavaScript https://learn.javascript.ru/
 * LeverX Intro to IT course
 ## Language:
-English level - A2
+English level - A2 (I have some speaking practice, but not with native speakers)
