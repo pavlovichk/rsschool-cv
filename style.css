@@ -31,6 +31,11 @@ ul, li {
 	margin: 0;
 }
 
+/*.text-regular {
+color:	#322e23a8;
+letter-spacing: 1.2 em;
+}*/
+
 .wrapper {
     width: 1280px;
     margin: 0 auto;
@@ -72,4 +77,20 @@ ul, li {
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+
+.main {
+	padding: 40px 40px;
+    background-color: #f5dfadd8;
+	display: flex;
+	flex-direction: column;
+	gap: 40px;
+}
+
+.footer {
+	padding: 40px 40px;
+    background-color: #fef6e1;	
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
 }
